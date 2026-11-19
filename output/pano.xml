@@ -17,7 +17,7 @@
       <hotspot description="" id="Point01" pan="48.48" skinid="ht_node" target="" tilt="-15.37" title="" url="{node1}"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" field="90.000" id="Element01" level="1.000" loop="1" mode="3" nodechangekeep="1" pan="25.100" pansize="10.000" startmutedmobile="0" tilt="-20.020" tiltsize="10.000">
+      <sound ambientlevel="0.000" field="90.000" id="Element01" level="1.000" loop="1" mode="1" nodechangekeep="1" pan="25.100" pansize="10.000" startmutedmobile="0" tilt="-20.020" tiltsize="10.000">
         <source mono="0" url="media/03. Little Boy Belmont.mp3"/>
       </sound>
     </media>
